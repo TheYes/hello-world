@@ -10,3 +10,15 @@
 	<javascript>
 		console.log("123456") ;
 	</javascript>
+	<javascript>
+		console.log("123456") ;
+	</javascript>
+	<javascript>
+		console.log("123456") ;
+	</javascript>
+	<javascript>
+		console.log("123456") ;
+	</javascript>
+	<javascript>
+		console.log("123456") ;
+	</javascript>
